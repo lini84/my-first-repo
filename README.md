@@ -1,1 +1,1 @@
-# my-first-repo
+# lab-agile-planning
